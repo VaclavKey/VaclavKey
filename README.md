@@ -1,4 +1,4 @@
-## Hello World! 🌎
+## Hello, World! 🌎
 
 - :art: I'm currently working on my Frontend-Skills & Portfolio
 - ⚛️ I'm currently learning React.js 
