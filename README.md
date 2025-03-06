@@ -1,6 +1,6 @@
 ## Hello, World! 🌍  
 
-## 🚀 Aspiring Frontend Developer
+# 🚀 Aspiring Frontend Developer
 🎨 Improving my frontend skills and building my portfolio.  
 ⚛️ Learning **React.js** and modern JavaScript.  
 🌐 On my way to becoming a **Fullstack Developer**. 
