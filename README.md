@@ -1,8 +1,9 @@
-## Hello, World! 🌎
+## Hello, World! 🌍  
 
-- :art: I'm currently working on my Frontend-Skills & Portfolio
-- ⚛️ I'm currently learning React.js 
-- :train2: On my way to Fullstack-Development
+🚀 **Aspiring Frontend Developer**  
+🎨 Improving my frontend skills and building my portfolio.  
+⚛️ Learning **React.js** and modern JavaScript.  
+🌐 On my way to becoming a **Fullstack Developer**. 
 
 <!--
 **VaclavKey/VaclavKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
